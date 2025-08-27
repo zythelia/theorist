@@ -35,7 +35,7 @@ It includes all standard math functions plus additional utilities to simplify co
 Theorist enhances Roblox's built-in `math` library with additional constants, functions, and utilities.  
 These features are designed to simplify tasks like advanced calculations, animations, and algorithm creation.
 
-For full documentation and examples, see: **[Documentation Link Here]**
+For full documentation and examples, see: **[SOON]**
 
 ---
 
