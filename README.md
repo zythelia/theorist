@@ -1,4 +1,5 @@
 # Theorist
+
 This was created by JAVENCIER Productions, every asset is owned by JAVENCIER Productions.
 This is licensed under the MIT license.
 --------------
@@ -21,7 +22,6 @@ There is more information about what you can do in our documentation:
 ## Fair Use
 This is licensed under MIT.
 Therefore, anyone can use it.
-
 I would appreciate it if you credited me in the game credits.
 --------------
 ## Author's Note
