@@ -1,7 +1,4 @@
 # Theorist
-
-Created by **JAVENCIER Productions**.  
-All assets are owned by JAVENCIER Productions.  
 Licensed under the [MIT License](#license).  
 
 ---
