@@ -1,32 +1,55 @@
 # Theorist
 
-This was created by JAVENCIER Productions, every asset is owned by JAVENCIER Productions.
-This is licensed under the MIT license.
---------------
+Created by **JAVENCIER Productions**.  
+All assets are owned by JAVENCIER Productions.  
+Licensed under the [MIT License](#license).  
+
+---
+
+## Overview
+
+**Theorist** is an extended math library for Roblox.  
+It includes all standard math functions plus additional utilities to simplify complex equations and make scripting in Roblox Studio more efficient.
+
+---
+
 ## Installation
 
-1. To install the package into your game, you must grab the model.
-2. Once you have bought the model, you can then import it into your Studio file.
-3. To have to use this in a script, make a script of your choice, then add...
-```lua
-local Theorist = require(path.to.Theorist)
-```
-(Replace path.to.Theorist with the actually place you put the module.
---------------
+1. **Get the Model**  
+   - Purchase or download the Theorist model from the Roblox Marketplace.  
+
+2. **Import into Studio**  
+   - Insert the model into your Studio project.
+
+3. **Require the Module**  
+   - In any script where you want to use Theorist:
+     ```lua
+     local Theorist = require(path.to.Theorist)
+     ```
+     *(Replace `path.to.Theorist` with the actual path to the module in your game.)*
+
+---
+
 ## Usage
-This is an extended math library for Roblox.
-Therefore, it will include the regular math functions along with new ones to make equations within Studio easier.
 
-There is more information about what you can do in our documentation:
---------------
-## Fair Use
-This is licensed under MIT.
-Therefore, anyone can use it.
-I would appreciate it if you credited me in the game credits.
---------------
+Theorist enhances Roblox's built-in `math` library with additional constants, functions, and utilities.  
+These features are designed to simplify tasks like advanced calculations, animations, and algorithm creation.
+
+For full documentation and examples, see: **[Documentation Link Here]**
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this library in your own projects.  
+Attribution is not required, but crediting **JAVENCIER Productions** is appreciated.  
+
+---
+
 ## Author's Note
-I do not expect this to get popular, nor does it have a really good usage.
-I just hope that you can simplify your game with this! 
 
-With love,
-JAVENCIER
+> I created **Theorist** as a small contribution to the Roblox development community.  
+> It's not intended to be groundbreaking—just a helpful utility to make scripting a little easier.  
+>  
+> — **JAVENCIER**
