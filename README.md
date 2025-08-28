@@ -13,10 +13,10 @@ It includes all standard math functions plus additional utilities to simplify co
 ## Installation
 
 1. **Get the Model**  
-   - Get the Roblox model, or download the VS Code in Theorist.Luau.
+   - Get the Roblox model, or download the Code in Theorist.Luau.
 
 2. **Import into Studio**  
-   - Insert the model into your Studio project.
+   - Insert the model into your Studio project, or make a script called Theorist and paste the code.
 
 3. **Require the Module**  
    - In any script where you want to use Theorist:
